@@ -1,4 +1,4 @@
-#Fraction++#
+## Fraction++
 
 
 It is a C++ Implementation of fraction class like the one in python and with added features.
